@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemda de informação no Unibalsas.
+- 🎓 Estudando Sistema de informação no Unibalsas.
 - 🌱 Aprendendo mais sobre Web Scraping e backend developer.
 
 ## Minhas Skills
